@@ -4,7 +4,7 @@
 
 You probably want [`imagemin-pngout`](https://github.com/imagemin/imagemin-pngout) instead.
 
-> use https://npm.taobao.org/mirrors/pngquant-bin/ as downlaod source
+> use https://npm.taobao.org/mirrors/pngout-bin/ as downlaod source
 
 ## Install
 
